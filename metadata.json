@@ -1,0 +1,6 @@
+{
+  "name": "TestPlatform Pro - Professional Online Test Platformasi",
+  "description": "Talabalar va o'qituvchilar uchun xavfsiz, Telegram integratsiyalangan, server-side baholash va DOCX importli professional test platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
